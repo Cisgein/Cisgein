@@ -1,9 +1,8 @@
-# Gallery whit HTML and CSS
+# Cisgein
 
-Gallery of images with HTML and CSS with a beautiful effect hover.
+Tuvida y tu trabjo nos importan.
 
-## Preview
-![Preview](gif.gif)
+
 
 [Live Preview](https://github.com/Jevalo2020/catalogo-soy-esencial)
 
